@@ -1,16 +1,18 @@
-### Hi there 👋
+### BEM VINDO AO MEU PERFIL ESTUDANTE! 👨‍🎓
 
-<!--
-**ARSDL13092007/ARSDL13092007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é André - Estudante do Joseano Costa Pinto
 
-Here are some ideas to get you started:
+- Estou estudando o [Alura](www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou aprendendo a línguagem Java
+
+- Estou utilizando este espaço para a compartilhação dos projetos aprendidos
+
+
+  ### VOCÊ PODE ENTRAR EM CONTATO COMIGO POR 📧
+
+  - Gmail: 00001927494749sp@al.educacao.sp.gov.br (Email fictício)
+
+@ARSDL13092007
+
+![](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)
